@@ -6,10 +6,14 @@
 
 <img width="756" height="368" alt="image" src="https://github.com/user-attachments/assets/aa815e31-1643-4c2b-afda-0c436818087e" />
 
-## Tabulations
 
 ## Graph
+(https://github.com/user-attachments/assets/6c9758a1-2e81-4601-866f-8cee5c7b404b)
+!(https://github.com/user-attachments/assets/12ba23a0-e10d-4244-9809-2111db8a3c0b)
+
+
 
 
 <img width="853" height="183" alt="image" src="https://github.com/user-attachments/assets/ee91e1c1-171c-4208-83ee-e61ea1ba626c" />
 
+(https://github.com/user-attachments/assets/a443d072-9297-49ff-8237-f8475d8e4642)
