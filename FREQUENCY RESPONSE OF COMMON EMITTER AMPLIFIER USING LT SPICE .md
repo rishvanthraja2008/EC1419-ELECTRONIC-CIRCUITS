@@ -1,4 +1,6 @@
+
 ## EC1419-Electronics Circuits-Lab
+
 **EXP NO:1**
 # <img width="847" height="606" alt="image" src="https://github.com/user-attachments/assets/e89cd66c-73d8-4d5b-845a-89e5ed05bd69" />
 
@@ -15,23 +17,29 @@
 ## CIRCUIT DIAGRAM
 
 <img width="538" height="384" alt="image" src="https://github.com/user-attachments/assets/7258c2db-4bc3-4a33-9dfb-6f0bc0749e62" />
+![WhatsApp Image 2026-03-18 at 1 26 50 PM](https://github.com/user-attachments/assets/2e14f550-11f0-489a-bc76-98e75d6e24c1)
 
 
 ## MODEL GRAPH
 
 <img width="420" height="320" alt="image" src="https://github.com/user-attachments/assets/35db161e-e8a3-4438-a25d-7849c15ee08e" />
 <img width="420" height="320" alt="image" src="https://github.com/user-attachments/assets/47c2cdf5-9004-4e0f-89d0-c9eda45cf64c" />
+![WhatsApp Image 2026-03-18 at 1 26 50 PM (1)](https://github.com/user-attachments/assets/28ab5350-9fc6-48b6-818c-2acdc2691cc1)
 
 <img width="520" height="416" alt="image" src="https://github.com/user-attachments/assets/c8e67646-bb9d-4bf3-a4c9-6ba57b0d80f3" />
 
 ## Tabulation
 
+
 ## Graph
+
+![WhatsApp Image 2026-03-18 at 1 26 51 PM](https://github.com/user-attachments/assets/daefff18-82fd-47a1-baeb-d6852543ec4a)
 
 
 ## **Result**
 <img width="787" height="63" alt="image" src="https://github.com/user-attachments/assets/96610a01-3638-4c67-8c6f-b3e6d2b1cc80" />
+![WhatsApp Image 2026-03-18 at 1 26 51 PM (1)](https://github.com/user-attachments/assets/1fa4282e-9427-4fc0-9d8a-eb7d30fea383)
 
-**VOLTAGE GAIN =**
+**VOLTAGE GAIN =*68 dB*
 
-**BANDWIDTH =**
+**BANDWIDTH =*69.9*
